@@ -43,7 +43,7 @@ nav{
 	height: 150px;
 	background-color: #DCE4E8;
 	border-radius: 10px;
-	border: 15px solid yellow;
+	border: 15px solid #110A79;
 
 }
 
@@ -126,7 +126,7 @@ footer {
 	height: 50px;
 	background-color: #DCE4E8;
 	clear: both;
-	border: 15px solid blue;
+	border: 15px solid #110A79;
 	border-radius: 10px;
 
 }
